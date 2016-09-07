@@ -2,7 +2,7 @@
 azure login
 azure config mode asm
 azure account list
-azure account set "Microsoft Partner Network"
+# azure account set "Microsoft Partner Network"
 
 mkdir $1
 cd  $1
